@@ -1,0 +1,4 @@
+{
+  for let (num=0;num>21;num++)
+  console.log(num);
+}
